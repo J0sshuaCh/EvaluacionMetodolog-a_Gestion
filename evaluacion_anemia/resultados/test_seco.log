@@ -1,0 +1,138 @@
+============================================================
+TEST SECO - Verificacion de entorno
+============================================================
+  [OK] Python >= 3.10
+  [OK] Directorio existe
+  [OK] Config importado
+  [OK] API Key presente
+  [OK] Generation model
+  [OK] Evaluation model
+  [OK] Embedding model
+  [OK] RPM generacion 1-15
+  [OK] RPD generacion <= 500
+  [OK] RPM evaluacion 1-15
+  [OK] RPD evaluacion <= 1500
+  [OK] Delay generacion ~4.3s
+  [OK] Delay evaluacion ~4.3s
+  [OK] Output dir
+  [OK] Checkpoint path
+  [OK] Limitador creado
+  [OK] Limite max_calls
+  [OK] wait() rapido en frio
+  [OK] total_calls incrementa
+  [OK] Handler generacion
+  [OK] Handler evaluacion
+  [OK] Handler embeddings
+  [OK] Handlers separados
+  [OK] RPD status dict
+  [OK] RPD tiene generacion
+  [OK] RPD tiene evaluacion
+  [OK] RPD tiene embedding
+  [OK] RPDAgotadoError atrapable
+  [OK] Dataset cargado: 100 filas
+  [OK] Tiene columna Pregunta
+  [OK] Tiene columna Categoria
+  [OK] Tiene columna ID
+  [OK] Categorias: 3
+  [OK] Sin categorias sospechosas Q029
+  [OK] Preguntas no vacias
+  [OK] procesar_documentos importado
+  [OK] retrieval_local importado
+  [OK] RecuperadorLocal instanciado
+  [OK] Tiene metodo cargar
+  [OK] Tiene metodo recuperar
+  [OK] cache_existe() ejecuta sin error
+  [OK] generador_respuestas importado
+  [OK] Tiene RPDAgotadoError
+  [OK] Tiene generar_todas_respuestas
+  [OK] evaluador_metricas importado
+  [OK] Tiene evaluar_todo
+  [OK] evaluador_opacidad importado
+  [OK] Tiene evaluar_opacidad
+  [OK] analizar_opacidad funciona
+  [OK] opacidad_score es float
+  [OK] evaluador_pod importado
+  [OK] Tiene evaluar_pod
+  [OK] DataFrame sintetico creado
+  [OK] generar_graficos() ejecuta sin error
+  [OK] Archivos en C:\Users\I5\Documents\Proyectos\EvaluacionMetodología_Gestion\evaluacion_anemia\resultados\graficos_articulo: 3
+  [OK] Contiene tabla_medias_categoria.csv
+  [OK] Contiene tabla_deltas_individual.csv
+  [OK] tabla_medias_por_categoria() OK
+  [OK] tabla_delta_individual() OK
+  [OK] Excel generado
+  [OK] Tamano: 11.9 KB
+  [OK] Excel legible
+  [OK] main.py importado
+  [OK] Tiene main()
+  [OK] Tiene mostrar_status
+  [OK] Tiene --status
+============================================================
+TEST SECO - Verificacion de entorno
+============================================================
+  [OK] Python >= 3.10
+  [OK] Directorio existe
+  [OK] Config importado
+  [OK] API Key presente
+  [OK] Generation model
+  [OK] Evaluation model
+  [OK] Embedding model
+  [OK] RPM generacion 1-15
+  [OK] RPD generacion <= 500
+  [OK] RPM evaluacion 1-15
+  [OK] RPD evaluacion <= 1500
+  [OK] Delay generacion ~4.3s
+  [OK] Delay evaluacion ~4.3s
+  [OK] Output dir
+  [OK] Checkpoint path
+  [OK] Limitador creado
+  [OK] Limite max_calls
+  [OK] wait() rapido en frio
+  [OK] total_calls incrementa
+  [OK] Handler generacion
+  [OK] Handler evaluacion
+  [OK] Handler embeddings
+  [OK] Handlers separados
+  [OK] RPD status dict
+  [OK] RPD tiene generacion
+  [OK] RPD tiene evaluacion
+  [OK] RPD tiene embedding
+  [OK] RPDAgotadoError atrapable
+  [OK] Dataset cargado: 100 filas
+  [OK] Tiene columna Pregunta
+  [OK] Tiene columna Categoria
+  [OK] Tiene columna ID
+  [OK] Categorias: 3
+  [OK] Sin categorias sospechosas Q029
+  [OK] Preguntas no vacias
+  [OK] procesar_documentos importado
+  [OK] retrieval_local importado
+  [OK] RecuperadorLocal instanciado
+  [OK] Tiene metodo cargar
+  [OK] Tiene metodo recuperar
+  [OK] cache_existe() ejecuta sin error
+  [OK] generador_respuestas importado
+  [OK] Tiene RPDAgotadoError
+  [OK] Tiene generar_todas_respuestas
+  [OK] evaluador_metricas importado
+  [OK] Tiene evaluar_todo
+  [OK] evaluador_opacidad importado
+  [OK] Tiene evaluar_opacidad
+  [OK] analizar_opacidad funciona
+  [OK] opacidad_score es float
+  [OK] evaluador_pod importado
+  [OK] Tiene evaluar_pod
+  [OK] DataFrame sintetico creado
+  [OK] generar_graficos() ejecuta sin error
+  [OK] Archivos en C:\Users\I5\Documents\Proyectos\EvaluacionMetodología_Gestion\evaluacion_anemia\resultados\graficos_articulo: 12
+  [OK] Contiene tabla_medias_categoria.csv
+  [OK] Contiene tabla_deltas_individual.csv
+  [OK] tabla_medias_por_categoria() OK
+  [OK] tabla_delta_individual() OK
+  [OK] Excel generado
+  [OK] Tamano: 11.9 KB
+  [OK] Excel legible
+  [OK] main.py importado
+  [OK] Tiene main()
+  [OK] Tiene mostrar_status
+  [OK] Tiene --status
